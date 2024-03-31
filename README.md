@@ -5,8 +5,7 @@ Tool to bypass 403/401. This script contain all the possible techniques to do th
 - **NOTE** : If you see multiple [200 Ok]/bypasses as output, you must check the Content-Length. If the content-length is same for multiple [200 Ok]/bypasses means false positive. Reason can be "301/302" or "../" [Payload] DON'T PANIC.
 - Script will print `cURL` PAYLOAD if possible bypass found.
 
-### >_ Help
-```bash
+
 
 ### >_ Usage / Modes
 
