@@ -43,5 +43,4 @@ root@pythagorex:$ bash 403-bypass.sh -u https://target.com/secret --exploit
 - apt install curl [Debian]
 
 
-Original Script Copied from : https://github.com/Dheerajmadhukar/4-ZERO-3?tab=readme-ov-file
-credit : dheeraj 
+If you want to use your Own wordlists just replace wordlist with your list 
