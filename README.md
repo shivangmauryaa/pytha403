@@ -43,4 +43,4 @@ root@pythagorex:$ bash 403-bypass.sh -u https://target.com/secret --exploit
 - apt install curl [Debian]
 
 
-If you want to use your Own wordlists just replace wordlist with your list 
+If you want to use your Own wordlists just replace wordlist with your list .
